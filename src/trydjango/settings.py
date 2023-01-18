@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     # Own
     "products",
     "pages",
+    "blog",
 ]
 
 MIDDLEWARE = [
